@@ -165,4 +165,19 @@ CREATE VIEW RecipeNamesAndCategories AS
 SELECT recipe_name, category_id
 FROM Recipes;
 
+# 21. Write a query to delete values from table (delete)
 
+delete from recipes
+where recipe_id = 1;
+
+# 22. Write a query to delete all rows from a table (truncate)
+
+truncate table ingredients;
+
+# 23. Write a query to completely delete a table along with structure (drop)
+
+drop table ingredients;
+
+# 24. Write a query to completely drop database (drop)
+
+drop database taste_treasury;

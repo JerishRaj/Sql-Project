@@ -96,7 +96,7 @@ WHERE recipe_id IN (
 📝 How to Use
 Clone the repository:
 
-git clone https://github.com/your-username/taste_treasury.git
+git clone https://github.com/JerishRaj/taste_treasury.git
 
 Open in your SQL environment (like MySQL Workbench).
 

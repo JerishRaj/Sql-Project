@@ -96,8 +96,11 @@ WHERE recipe_id IN (
 📝 How to Use
 Clone the repository:
 
+  ```bash
+
 git clone https://github.com/JerishRaj/taste_treasury.git
 
+```
 Open in your SQL environment (like MySQL Workbench).
 
 Run the SQL scripts step-by-step or in batches.
